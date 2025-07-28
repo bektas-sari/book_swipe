@@ -2,10 +2,6 @@
 
 > Swipe to discover books in the most fun and fastest way.
 
-![BookSwipe Demo](screenshots/demo.gif)
-
----
-
 ## 📖 Table of Contents
 
 1. [Overview](#overview)
@@ -24,7 +20,8 @@
 
 ## 📝 Overview
 
-BookSwipe is a Flutter application that lets book enthusiasts quickly mark titles as "read" or "skipped" using a Tinder-style swipe gesture. It leverages a JSON-based local Turkish book catalog and integrates with the Open Library Covers API to display cover images for a professional reading-tracking experience.
+BookSwipe is a Flutter application that lets book enthusiasts quickly mark titles as "read" or "skipped" using a Tinder-style swipe gesture. 
+It leverages a JSON-based local Turkish book catalog and integrates with the Open Library Covers API to display cover images for a professional reading-tracking experience.
 
 * **Platform:** Android (iOS support can be added easily)
 * **Language:** Dart & Flutter
