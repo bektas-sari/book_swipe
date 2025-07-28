@@ -39,16 +39,6 @@ It leverages a JSON-based local Turkish book catalog and integrates with the Ope
 
 ---
 
-## 📱 Screenshots
-
-<p align="center">
-  <img src="screenshots/screen1.png" alt="Home Screen" width="200" />
-  <img src="screenshots/screen2.png" alt="Swipe Animation" width="200" />
-  <img src="screenshots/screen3.png" alt="All Books Swiped" width="200" />
-</p>
-
----
-
 ## 🚀 Installation
 
 Follow these steps to run the project locally:
@@ -138,7 +128,7 @@ book_swipe/
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]
 
 ---
 
@@ -147,8 +137,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 👤 Developer
 
 **Bektas Sari**
-Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
-GitHub: [https://github.com/bektas-sari](https://github.com/bektas-sari)
-LinkedIn: [https://www.linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)
-ResearchGate: [https://www.researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)
-Academia: [https://independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
+Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com) <br>
+GitHub: [https://github.com/bektas-sari](https://github.com/bektas-sari)<br>
+LinkedIn: [https://www.linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)<br>
+ResearchGate: [https://www.researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)<br>
+Academia: [https://independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)<br>
