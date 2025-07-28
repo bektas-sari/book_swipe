@@ -1,4 +1,4 @@
-# BookSwipe
+# BookSwipe (Flutter APP)
 
 > Kaydırarak kitap keşfetmenin en eğlenceli ve hızlı yolu.
 
