@@ -134,8 +134,6 @@ This project is licensed under the MIT License. See the [LICENSE]
 
 ## 🚀 Developer
 
-## 👨‍💻 Developer
-
 **Bektaş Sarı**
 PhD in Advertising, AI + Creativity researcher
 Flutter Developer & Software Educator
