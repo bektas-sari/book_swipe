@@ -149,7 +149,7 @@ This project is licensed under the MIT License. See the [LICENSE]
 
 ## 🧠 Architecture & Strategy
 
-**Dr. Bektaş Sarı** *Perception Engineer & Founder @ [Kognitect](https://kognitect.com)* Combining **Cognitive Science** with **AI-Driven Development** to build measurable digital experiences.  
+**Dr. Bektaş Sarı** *Perception Engineer & Founder KOGNITECT <br>Combining **Cognitive Science** with **AI-Driven Development** to build measurable digital experiences.  
 *PhD in Advertising (AI as a Design Tool).*
 
 - 🌐 **Web & AI:** [kognitect.com](https://kognitect.com)
