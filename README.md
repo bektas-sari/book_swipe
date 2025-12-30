@@ -132,7 +132,7 @@ This project is licensed under the MIT License. See the [LICENSE]
 
 ---
 
-## 🧠 Perception Architect
+## 👤 Perception Architect
 
 **Dr. Bektaş Sarı** | Perception Architect & Founder @ [KOGNITECT](https://kognitect.com)
 
