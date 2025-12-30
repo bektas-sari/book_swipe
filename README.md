@@ -144,3 +144,14 @@ This project is licensed under the MIT License. See the [LICENSE]
 | **LinkedIn** | [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari) |
 | **Research** | [ResearchGate Profile](https://www.researchgate.net/profile/Bektas-Sari-3) |
 | **Academic** | [Academia.edu Profile](https://independent.academia.edu/bektassari) |
+
+
+
+## 🧠 Architecture & Strategy
+
+**Dr. Bektaş Sarı** *Perception Engineer & Founder @ [Kognitect](https://kognitect.com)* Combining **Cognitive Science** with **AI-Driven Development** to build measurable digital experiences.  
+*PhD in Advertising (AI as a Design Tool).*
+
+- 🌐 **Web & AI:** [kognitect.com](https://kognitect.com)
+- 📩 **Contact:** [info@kognitect.com](mailto:info@kognitect.com)
+- 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/bektas-sari) | [ResearchGate](https://www.researchgate.net/profile/Bektas-Sari-3) | [Academia](https://independent.academia.edu/bektassari)
