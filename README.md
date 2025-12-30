@@ -136,8 +136,8 @@ This project is licensed under the MIT License. See the [LICENSE]
 
 **Dr. Bektaş Sarı** | Perception Architect & Founder @ [KOGNITECT](https://kognitect.com)
 
-Designing digital ecosystems grounded in **Neuroscience** and **Evolutionary Psychology**.
-I turn complex code into rational, human-centric experiences that foster healthy perception and critical thinking.
+I build bridges between **Human Nature** and **Digital Technology**.
+My mission is to **construct** and **refine** rational, scientifically grounded products that establish **clarity, solidity, and trust**—not through manipulation, but through neuroscience and evolutionary psychology.
 
 *PhD in Advertising (Focus: AI as a Design Tool)*
 
