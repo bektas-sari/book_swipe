@@ -134,11 +134,13 @@ This project is licensed under the MIT License. See the [LICENSE]
 
 ## 👤 Developer
 
-**Bektaş Sarı**<br>
-PhD in Advertising, AI + Creativity researcher<br>
-Flutter Developer & Software Educator<br>
+**Bektaş Sarı, PhD.** *Full Stack Developer | AI & Creativity Researcher*
 
-- **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)  
-- **Researchgate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)  
-- **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
+> "Transforming behavioral data into digital products."
+
+| Platform | Link |
+| :--- | :--- |
+| **Email** | [info@kognitect.com](mailto:info@kognitect.com) |
+| **LinkedIn** | [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari) |
+| **Research** | [ResearchGate Profile](https://www.researchgate.net/profile/Bektas-Sari-3) |
+| **Academic** | [Academia.edu Profile](https://independent.academia.edu/bektassari) |
