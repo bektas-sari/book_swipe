@@ -132,26 +132,17 @@ This project is licensed under the MIT License. See the [LICENSE]
 
 ---
 
-## 👤 Developer
+## 🧠 Perception Architect
 
-**Bektaş Sarı, PhD.** *Full Stack Developer | AI & Creativity Researcher*
+**Dr. Bektaş Sarı** | Perception Architect & Founder @ [KOGNITECT](https://kognitect.com)
 
-> "Transforming behavioral data into digital products."
+Designing digital ecosystems grounded in **Neuroscience** and **Evolutionary Psychology**.
+I turn complex code into rational, human-centric experiences that foster healthy perception and critical thinking.
 
-| Platform | Link |
-| :--- | :--- |
-| **Email** | [info@kognitect.com](mailto:info@kognitect.com) |
-| **LinkedIn** | [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari) |
-| **Research** | [ResearchGate Profile](https://www.researchgate.net/profile/Bektas-Sari-3) |
-| **Academic** | [Academia.edu Profile](https://independent.academia.edu/bektassari) |
+*PhD in Advertising (Focus: AI as a Design Tool)*
 
-
-
-## 🧠 Architecture & Strategy
-
-**Dr. Bektaş Sarı** *Perception Engineer & Founder KOGNITECT <br>Combining **Cognitive Science** with **AI-Driven Development** to build measurable digital experiences.  
-*PhD in Advertising (AI as a Design Tool).*
-
-- 🌐 **Web & AI:** [kognitect.com](https://kognitect.com)
-- 📩 **Contact:** [info@kognitect.com](mailto:info@kognitect.com)
-- 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/bektas-sari) | [ResearchGate](https://www.researchgate.net/profile/Bektas-Sari-3) | [Academia](https://independent.academia.edu/bektassari)
+- 🌐 **Website:** [kognitect.com](https://kognitect.com)
+- 📩 **Email:** [info@kognitect.com](mailto:info@kognitect.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)
+- 🔬 **ResearchGate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)
+- 🎓 **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
